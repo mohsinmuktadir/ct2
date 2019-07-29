@@ -3,6 +3,199 @@
 	padding: 0px;
 }
 
-header.masthead {
-    background-image: url(../img/icrowdme-PSD---cssauthor.png);
+
+.col-md-12.tittle {
+    text-align: center;
 }
+
+.hom {
+    background: url(../img/icrowdme-PSD---cssauthor.png) center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+p {
+	font-size: 15px;
+
+}
+
+
+/*navigation section start*/
+.menu {
+	background-color: white;
+	padding: 25px 0px;
+}
+.nav-link {
+	color: #161616;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff;
+    border-radius: 14px;
+    padding: 4px 11px!important;
+}
+
+
+.col-md-12.tittle h1{
+        text-align: center;
+        color:#918d3c;
+        margin-top: 270px;
+
+}
+
+.col-md-12.tittle p {
+    color: #8da8ca;
+      
+}    
+
+.btn {
+    margin: 28px auto 56px;
+    background: #99c50a;
+    padding: 8px 34px;
+    color: #513232;
+    border-radius: 12px;
+}
+
+
+/*Fusce at section End*/
+
+/*Work section start*/
+
+
+.WORKS{
+
+}
+
+.col-md-12.text {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+
+.col-md-12.text h2 {
+    text-align: center;
+    margin: 50px;
+}
+
+
+.col-md-12.text p {
+    text-align: center;
+}
+/*Work section End*/
+
+.col-md-6.dis{
+
+    background-color: #e2f8ff
+}
+
+
+.btntw{
+    margin: 28px auto 56px;
+    background: #26a6d1;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+
+.on {
+    background: #e2f8ff;
+    padding: 50px;
+}
+
+.tw{
+    background: #f5f9eb;
+    padding: 50px;
+
+}
+.btnon{
+    margin: 28px auto 56px;
+    background: #26a6d1;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+.btntwo{
+     margin: 28px auto 56px;
+    background: #add136;
+    padding: 8px 34px;
+    color: darkred;
+    border-radius: 12px;
+}
+
+
+.btntr {
+    margin: 28px auto 56px;
+    padding: 15px 35px;
+    color: black;
+    border-radius: 12px;
+    background: none;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+.underline{
+
+}
+
+.card-title{
+
+}
+
+.card-text{
+    padding-bottom: 70px;
+
+}
+
+
+.card img {
+    position: relative;
+}
+
+
+.card button {
+    position: absolute;
+    left: 147px;
+    padding: 6px 10px;
+    border: none;
+    top: 170px;
+    background-color: #26a6d1;
+}
+
+.underline {
+    border-top: 1px solid black;
+    display: block;
+}
+
+.card-body a {
+    color: black;
+    margin-left: 100px;
+}
+
+
+.yah {
+    padding: 10px 0px;
+    background-color: #f3eef2c2;
+}
+
+footer {
+    background-color: #f3eef2c2;
+    padding: 10px 0px;
+}
+
+#find {
+    padding: 50px 0;
+}
+
+#project {
+    padding: 50px 0;
+}
+
